@@ -38,3 +38,18 @@ modalButtons.forEach((button) => {
   close.addEventListener("click", () => modal.classList.add("hidden"));
   cancel.addEventListener("click", () => modal.classList.add("hidden"));
 });
+
+const sidebarToggler = document.querySelector("#sidebar-toggle");
+const sidebar = document.querySelector("#sidebar");
+
+const toggleSidebar = () => {
+  if (sidebar.classList.contains("-right-60")) {
+    sidebar.classList.add("right-0");
+    sidebar.classList.remove("-right-60");
+  } else {
+    sidebar.classList.add("-right-60");
+    sidebar.classList.remove("right-0");
+  }
+};
+
+sidebarToggler.addEventListener("click", toggleSidebar);
