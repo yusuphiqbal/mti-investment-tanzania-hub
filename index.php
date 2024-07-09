@@ -59,7 +59,7 @@
             <h1 class="text-4xl font-bold mb-10">Tailored Packages for Every Professional</h1>
             <div class="gap-4 grid-cols-1 grid lg:flex md:grid-cols-2 lg:grid-cols-4">
                 <div class="mb-4 flex-1">
-                    <div class="p-8 rounded bg-white border flex flex-col package min-h-[687px]">
+                    <div class="p-8 rounded bg-white border flex flex-col package md:min-h-[687px]">
                         <h5 class="text-center text-xl font-medium mb-4">Flexible Desk</h5>
                         <p class="text-center italic text-slate-500">Flexible workspace with access to any available desk in our common area.</p>
                         <div class="text-center mt-10"><span class="text-3xl">$</span><span class="text-3xl font-bold">150</span><span>/month</span></div>
@@ -99,7 +99,7 @@
                     </div>
                 </div>
                 <div class="mb-4 flex-1">
-                    <div class="p-8 rounded bg-white border flex flex-col package min-h-[687px]">
+                    <div class="p-8 rounded bg-white border flex flex-col package md:min-h-[687px]">
                         <h5 class="text-center text-xl font-medium mb-4">Dedicated Desk</h5>
                         <p class="text-center italic text-slate-500">Your personal reserved desk with storage and all essential amenities.</p>
                         <div class="text-center mt-10"><span class="text-3xl">$</span><span class="text-3xl font-bold">200</span><span>/month</span></div>
@@ -140,7 +140,7 @@
                     </div>
                 </div>
                 <div class="mb-4 flex-1">
-                    <div class="p-8 rounded bg-white border flex flex-col package min-h-[687px]">
+                    <div class="p-8 rounded bg-white border flex flex-col package md:min-h-[687px]">
                         <h5 class="text-center text-xl font-medium mb-4">Boardroom</h5>
                         <p class="text-center italic text-slate-500">Executive boardroom perfect for productive meetings and presentations.</p>
                         <div class="text-center mt-10"><span class="text-3xl">$</span><span class="text-3xl font-bold">25</span><span>/hour</span></div>
@@ -176,7 +176,7 @@
                     </div>
                 </div>
                 <div class="mb-4 flex-1">
-                    <div class="p-8 rounded bg-white border flex flex-col package min-h-[687px]">
+                    <div class="p-8 rounded bg-white border flex flex-col package md:min-h-[687px]">
                         <h5 class="text-center text-xl font-medium mb-4">Customized Package</h5>
                         <p class="text-center italic text-slate-500">Enjoy personalized solutions, customized just for you on demand.</p>
                         <div class="text-center mt-10"><span class="text-3xl">$</span><span class="text-3xl font-bold">XX</span><span>/month</span></div>
