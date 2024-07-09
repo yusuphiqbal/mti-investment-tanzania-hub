@@ -25,7 +25,7 @@
                 <div class="flex-1 mb-8 lg:px-6 lg:mb-0">
                     <div class="mb-4"><i class="bi bi-envelope text-primary text-4xl"></i></div>
                     <h3 class="text-xl text-white">Mail Us</h3>
-                    <p class="text-white/50">info@mtihub.com</p>
+                    <p class="text-white/50">info@mti-tanzaniahub.com</p>
                 </div>
                 <div class="flex-1 mb-8 lg:px-6 lg:mb-0">
                     <div class="mb-4"><i class="bi bi-geo text-primary text-4xl"></i></div>
@@ -35,7 +35,7 @@
                 <div class="flex-1 mb-8 lg:px-6 lg:mb-0">
                     <div class="mb-4"><i class="bi bi-phone text-primary text-4xl"></i></div>
                     <h3 class="text-xl text-white">Call Us</h3>
-                    <p class="text-white/50">+255 748 123 456</p>
+                    <p class="text-white/50">+255 763 927 473</p>
                 </div>
                 <div class="flex-1 lg:px-6">
                     <div class="mb-4"><i class="bi bi-calendar-check text-primary text-4xl"></i></div>
