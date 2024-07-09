@@ -18,8 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         header("Location: /");
     }
 
-    // $recipient = "noah.mwakanyamale@mti-investment.com";
-    $recipient = "yusuphiqbal21@gmail.com";
+    $recipient = "noah.mwakanyamale@mti-investment.com";
     $subject = "New $package Booking";
 
     $headers = "From: MTI Tanzania Investment Hub <info@mti-tanzaniahub.com>";
