@@ -24,7 +24,7 @@
             <div class="gap-4 lg:flex">
                 <div class="flex-1 flex flex-col justify-center">
                     <h3 class="text-primary text-5xl mb-4">Where great ideas come to life!</h3>
-                    <p>At MTI Tanzania Investment Hub, we believe in fostering a sense of community and cama- raderie among our members. We encourange you to take advantage of the numerous networking opportunities, events, and resources available to you. Our shared co-working spaces and breakout areas are perfect for connecting with like-minded individuals, exchanging ideas, and exploring potential collaborations.</p>
+                    <p>At MTI Tanzania Hub, we believe in fostering a sense of community and cama- raderie among our members. We encourange you to take advantage of the numerous networking opportunities, events, and resources available to you. Our shared co-working spaces and breakout areas are perfect for connecting with like-minded individuals, exchanging ideas, and exploring potential collaborations.</p>
                 </div>
                 <div class="flex-1"><img class="mt-8 lg:mt-0" alt="MTI Investment Tanzania Hub" src="/images/header-bg.jpg"></div>
             </div>
