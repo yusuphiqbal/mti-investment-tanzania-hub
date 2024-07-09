@@ -6,5 +6,5 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
     <link href="css/app.css" rel="stylesheet">
     <link href="/images/favicon.png" rel="icon" type="image/png">
-    <title>MTI Investment Hub</title>
+    <title>MTI Tanzania Hub</title>
 </head>
