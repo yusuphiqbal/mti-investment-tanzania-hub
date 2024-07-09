@@ -9,7 +9,7 @@
     <header class="bg-center bg-no-repeat bg-cover" style="height: calc(100vh - 64px); background-image: url('/images/home-hero-bg.jpg')">
         <div class="h-full w-full bg-gradient-to-t flex flex-col justify-center align-center bg-[#101116]/50">
             <div class="mx-auto w-full px-[15px] min-[576px]:max-w-[540px] min-[768px]:max-w-[720px] min-[992px]:max-w-[960px] min-[1200px]:max-w-[1140px] min-[1400px]:max-w-[1320px]">
-                <h1 class="text-white text-2xl lg:text-7xl text-center font-bold">MTI Tanzania Hub</h1>
+                <h1 class="text-white text-3xl lg:text-7xl text-center font-bold">MTI Tanzania Hub</h1>
                 <p class="text-center text-white text-lg">Where great ideas come to life!</p>
                 <p class="text-center text-white">Join a community of freelancers, remote workers &amp; entreprenuers</p>
                 <d class="w-full flex items-center justify-center gap-6 mt-8"><button class="text-white px-6 py-2 rounded-full modal-button bg-[#101116]" type="button">Book Space</button><a class="text-white px-6 py-2 bg-primary rounded-full" href="/gallery.php">View our Gallery</a></d>
